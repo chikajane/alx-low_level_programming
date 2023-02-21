@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entyr point
- * Description: prints all possible different combinations of two digits 
+ * Description: prints two digits combination
  * Return: Always 0 (success)
  */
 int main(void)
